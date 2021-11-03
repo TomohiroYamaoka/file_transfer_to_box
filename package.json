@@ -1,0 +1,26 @@
+{
+  "name": "file_transfer_to_box",
+  "version": "1.0.0",
+  "description": "Using Node.js and API to send files to the box",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomohiroYamaoka/file_transfer_to_box.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomohiroYamaoka/file_transfer_to_box/issues"
+  },
+  "homepage": "https://github.com/TomohiroYamaoka/file_transfer_to_box#readme",
+  "dependencies": {
+    "box-node-sdk": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^15.14.9"
+  }
+}
